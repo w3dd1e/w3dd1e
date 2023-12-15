@@ -1,5 +1,5 @@
 👋 Hi, I’m Kelly!
-@w3dd1e@mastodon.social
+@w3dd1e@mozilla.social
 @w3dd1e everywhere else
 
 
